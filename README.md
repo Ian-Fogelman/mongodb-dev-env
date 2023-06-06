@@ -6,11 +6,9 @@
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/4daa7e76-6314-4ae6-9c7e-11d00f477a02)
 4. Click **Get Started**
 5. Click **Continue**.
-
   The environment Will Begin provisioning.
 6. Click **Continue**
-7. Click the **OPEN IN VSCODE** button. 
-
+7. Click the **OPEN IN VSCODE** button.
    Your now in a VSCode instance connected to an environment running MongoDB in a container!
 8. Prompt the terminal with the keyboard shortcut: `CTRL + SHIFT + "`"`.
 9. In the terminal run the command `Mongosh --port 27017`, to connect to MongoDB.
