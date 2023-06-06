@@ -14,7 +14,7 @@ This repo shows you how to use the Docker Dev Environment Extension to open a VS
 6. Click **Continue**.
 7. Click the **OPEN IN VSCODE** button. \
    Your now in a VSCode instance connected to an environment running a MongoDB in a container!
-8. Prompt the terminal with the keyboard shortcut: `CTRL + SHIFT + ```.
+8. Prompt the terminal with the keyboard shortcut: `CTRL + SHIFT + ````.
 9. In the terminal run the command `Mongosh --port 27017`, to connect to MongoDB.
 10. In the mongoSH terminal, run `db.hello()`.
 11. To Insert data run `db.test.insert({'a':1})`.
