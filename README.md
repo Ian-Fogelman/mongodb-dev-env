@@ -20,7 +20,7 @@ This repo shows you how to use the Docker Dev Environment Extension to open a VS
 To validate the instance is up run `db.hello()`. \
 To Insert data run `db.test.insert({'a':1})`. \
 To query data run `db.test.findOne({})`.
-11. To stop the containerized development environment, return to the Docker desktop UI and click the stop icon.\
+11. To stop the containerized development environment, return to the Docker desktop UI and click the stop icon. Stopped containers remain on your system as images and can be restarted quickly.\
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/b0752821-1fa4-4a7f-8ccc-db7b5ce5c9d8)
 12. To delete the containerized development environment, return to the Docker desktop UI and click the delete icon.\
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/8b188aff-938c-43e2-91f4-394f0bbe6779)
