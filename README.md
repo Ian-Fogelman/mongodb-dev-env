@@ -5,7 +5,7 @@
 3. Click the **Open in Dev Environments** button on the top-right of the repo:
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/4daa7e76-6314-4ae6-9c7e-11d00f477a02)
 4. Click **Get Started**
-5. Click **Continue**. \n
+5. Click **Continue**. <br \>
 The environment Will Begin provisioning.
 6. Click **Continue**
 7. Click the **OPEN IN VSCODE** button. \n
