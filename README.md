@@ -25,5 +25,5 @@ To Insert data run `db.test.insert({'a':1})`. \
 To query data run `db.test.findOne({})`.
 9. To stop the containerized development environment: open the Docker desktop UI and click the stop icon. Stopped containers remain on your system as images and can be restarted as containers using the **Dev Environments** tab in Docker Desktop.\
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/b0752821-1fa4-4a7f-8ccc-db7b5ce5c9d8)
-10. To delete the containerized development environment, return to the Docker desktop UI and click the delete icon.\
+10. To delete the containerized development environment, open the Docker desktop UI and click the delete icon.\
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/8b188aff-938c-43e2-91f4-394f0bbe6779)
