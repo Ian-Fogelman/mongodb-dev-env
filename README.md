@@ -1,6 +1,6 @@
 # mongodb-dev-env
 
-This repo shows you how to use the Docker Dev Environment Extension to open a VSCode instance connected to a development environment (in this case MongoDB).
+This repo shows you how to use the Docker Dev Environment Extension to open a VSCode instance connected to a development environment running MongoDB.
 
 ## Before you Begin
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) 
