@@ -9,7 +9,7 @@ This repo shows you how to use the Docker Dev Environment Extension to open a VS
 
 ## Task
 
-1. Navigate to: https://github.com/Ian-Fogelman/mongodb-dev-env/.
+1. Navigate to: https://github.com/Ian-Fogelman/mongodb-dev-env.
 2. Click the **Open in Dev Environments** button on the top-right of the repo:
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/4daa7e76-6314-4ae6-9c7e-11d00f477a02)
 2. Click **Get Started**.
