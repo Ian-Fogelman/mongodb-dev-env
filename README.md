@@ -19,7 +19,7 @@ This repo shows you how to use the Docker Dev Environment Extension to open a VS
 10. You can run the following commands to validate MongoDB is running: \
 In the mongoSH terminal, run `db.hello()`. \
 To Insert data run `db.test.insert({'a':1})`. \
-To query data run `db.test.findOne({})`.\
+To query data run `db.test.findOne({})`.
 11. To stop the containerized development environment, return to the Docker desktop UI and click the stop icon.\
 ![image](https://github.com/Ian-Fogelman/mongodb-dev-env/assets/8229464/b0752821-1fa4-4a7f-8ccc-db7b5ce5c9d8)
 12. To delete the containerized development environment, return to the Docker desktop UI and click the delete icon.\
