@@ -5,10 +5,10 @@ services:
     - infinity
     image: mongo
     healthcheck:
-      test: [ "CMD", "mongod"]
+      test: ["mongod"]
       interval: 1s
-      retries: 3
-      start_period: 5s
+      retries: 1
+      start_period: 1s
     init: true
     volumes:
     - type: bind
