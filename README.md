@@ -6,7 +6,7 @@ This repo shows you how to use the Docker Dev Environment Extension to open a VS
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) 
 - Install [VSCode](https://code.visualstudio.com/).
 - Install the [Dev Environments browser extension](https://github.com/docker/dev-envs-extension) for [Chrome](https://chrome.google.com/webstore/detail/docker-dev-environments/gnagpachnalcofcblcgdbofnfakdbeka) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/docker-dev-environments/).
-
+- Install https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 ## Task
 
 1. Navigate to: https://github.com/Ian-Fogelman/mongodb-dev-env.
